@@ -85,6 +85,7 @@ openclaw gateway
 ```
 
 ## 4. Access the dashboard
+Open browser and go to this url
 ```
 http://127.0.0.1:18789
 ```
