@@ -84,6 +84,12 @@ Standard start
 openclaw gateway
 ```
 
+## 4. Access the dashboard
+```
+http://127.0.0.1:18789
+```
+## paste the gateway token on dashboard and hit connect
+
 ## 🛠 Troubleshooting
 Shizuku Disconnecting: Ensure "Battery Optimization" is disabled for the Shizuku app.
 
