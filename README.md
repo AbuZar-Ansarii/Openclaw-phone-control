@@ -58,7 +58,7 @@ ollama run minimax-m2.7:cloud
 ## Step 3: Install OpenClaw
 Ensure Shizuku is running, then execute the auto-installer:
 ```
-curl -sL [https://raw.githubusercontent.com/jarvesusaram99/Openclaw-Termux-NoRoot/main/auto_setup.sh](https://raw.githubusercontent.com/jarvesusaram99/Openclaw-Termux-NoRoot/main/auto_setup.sh) | bash
+curl -sL https://raw.githubusercontent.com/jarvesusaram99/Openclaw-Termux-NoRoot/main/auto_setup.sh | bash
 ```
 
 # 🚀 Configuration & Usage
