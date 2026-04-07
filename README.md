@@ -16,7 +16,8 @@ OpenClaw allows you to manage your phone via a Telegram bot using the power of l
 ---
 
 ## 📺 Video Tutorial
-[![](https://img.shields.io/badge/YouTube-Watch%20Setup-red?style=for-the-badge&logo=youtube)](https://youtu.be/RDJddESVbi8)
+[![](https://img.shields.io/badge/YouTube-Watch%20Setup-red?style=for-the-badge&logo=youtube)]
+https://youtu.be/RDJddESVbi8
 *Follow the step-by-step visual guide to ensure a smooth installation.*
 
 ---
